@@ -95,6 +95,12 @@ A second GitHub Actions workflow run was automatically triggered and completed s
 
 ![Automatic CI/CD Run](screenshots/04_automatic_cicd_run.png)
 
+
+### 5. Final GitHub Project
+
+![Final GitHub Project](screenshots/05_final_github_project.png)
+
+
 ## Project Outcome
 
 Successfully created and tested a basic CI/CD pipeline using GitHub Actions. The workflow automatically executes when changes are pushed to the main branch.
